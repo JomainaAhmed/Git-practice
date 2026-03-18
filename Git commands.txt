@@ -1,0 +1,8 @@
+
+Basic git commands
+
+-> git init (to use git repo)
+-> git add . (what you want to store in the local repo)
+-> git commit -m "commit" (store in local repo)
+-> git remote add origin URL-OF-GIT-REPO (it will connect)
+-> git push origin master (store in remote repo)
